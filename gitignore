@@ -1,0 +1,20 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell / Scripting logs
+*.log
+*.tmp
+temp/
+
+# Code Editor settings (VS Code / JetBrains)
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build / Output files
+dist/
+bin/
+obj/
